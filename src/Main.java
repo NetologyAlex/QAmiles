@@ -3,6 +3,6 @@ public class Main {
 
         int price = 28900; // стоимость билета
         int miles = 20; // 1 миля за каждые 20р
-        System.out.println((price / miles) + "количество миль");
+        System.out.println("Количество миль: " + (price / miles));
     }
 }
